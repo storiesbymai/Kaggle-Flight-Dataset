@@ -9,4 +9,4 @@ Stories:
 * [Flight counts by airport and airline](https://public.tableau.com/app/profile/maya.caldwell/viz/Flightcountsbyairportandairline2015/Flightcountsbyairportandairline2015)
 * [Exploring flight delays](https://public.tableau.com/app/profile/maya.caldwell/viz/Exploringflightsdelays/Exploringflightdelays)
 
-[Final reviewer note](https://github.com/storiesbymai/Kaggle-Flight-Dataset/blob/main/Final%20reviewer%20note.png) and a [helpful link](https://www.juiceanalytics.com/writing/7-must-have-data-visualization-skills-for-data-analysts)
+[Final reviewer note](https://github.com/storiesbymai/Kaggle-Flight-Dataset/blob/main/Final%20reviewer%20note.png) and a [helpful link](https://www.juiceanalytics.com/writing/7-must-have-data-visualization-skills-for-data-analysts) :smile:
